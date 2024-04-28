@@ -1,0 +1,31 @@
+[
+    {
+        "id": "17014374-7285-4fb4-86eb-14c17f35dec6",
+        "type_id": "0",
+        "name": "Europe With Cultures And 499 Viliages",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/europe_with_cultures_and_499_viliages/thumbnail.png",
+        "images_url": [
+          "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/europe_with_cultures_and_499_viliages/image_01.png",
+          "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/europe_with_cultures_and_499_viliages/image_02.png"
+        ],
+        "file_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/europe_with_cultures_and_499_viliages/europe_with_cultures_and_499_viliages.zip",
+        "author_name": "josh762",
+        "description": "Similar to My Map in Afro-Eurasia this has 499 villages with real city names and cultures.\n\nWith Formable German Empire",
+        "download_count": "0",
+        "createTime": "2024-04-28 22:14:30.089"
+      },
+    {
+        "id": "dcb602e5-bf50-4f1c-9def-f8147bce4630",
+        "type_id": "0",
+        "name": "FSRP MAP",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/fsrp_map/thumbnail.png",
+        "images_url": [
+          "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/fsrp_map/image_01.png"
+        ],
+        "file_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps_worldbox/master/fsrp_map/fsrp_map.zip",
+        "author_name": "KAYDAY",
+        "description": "MADE BY KAY DAY AND ITS BASED OFF A GIGAS THE STELLARIS MOD",
+        "download_count": "0",
+        "createTime": "2024-04-28 22:14:30.089"
+      }
+]
